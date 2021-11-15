@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋, this is icoderzqliu.
 
 <!--
 **icoderzqliu/icoderzqliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on http://cs.whu.edu.cn/
-- 🌱 I’m currently learning nlp
+- 🔭 I’m currently working ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on http://cs.whu.edu.cn/
+- 🔭 I’m currently working on http://cs.whu.edu.cn/
+- 👯 I am going to pursue my master's degree in https://www.siat.ac.cn/
+- 🌱 I’m currently learning nlp

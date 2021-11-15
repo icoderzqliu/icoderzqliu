@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning nlp
 
 ![icoderzqliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icoderzqliu&count_private=true&show_icons=true&theme=gruvbox_light&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icoderzqliu&layout=compact&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icoderzqliu&layout=default&theme=gruvbox_light)
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=PAT-solution&show_owner=true&theme=solarized-light)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=tutorials&show_owner=true&theme=solarized-light) -->

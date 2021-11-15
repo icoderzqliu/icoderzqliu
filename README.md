@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m going to pursue my master's degree in [SIAT](https://www.siat.ac.cn/)
 - 🌱 I’m currently learning nlp
 
-![icoderzqliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icoderzqliu&count_private=true&show_icons=true&theme=tokyonight)
+![icoderzqliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icoderzqliu&count_private=true&show_icons=true&theme=solarized-light)
 

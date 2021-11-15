@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Wuhan Univerisity](http://cs.whu.edu.cn/)
 - 👯 I’m going to pursue my master's degree in [SIAT](https://www.siat.ac.cn/)
-- 🌱 I’m currently learning nlp, ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🌱 I’m currently learning nlp, ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 - ⚡ Fun fact: Stay hungry, stay foolish.
 
 ![](https://komarev.com/ghpvc/?username=icoderzqliu)

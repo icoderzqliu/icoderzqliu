@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 👯 I am going to pursue my master's degree in https://www.siat.ac.cn/
 - 🌱 I’m currently learning nlp
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![icoderzqliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icoderzqliu)]

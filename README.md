@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning nlp
 
 ![icoderzqliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icoderzqliu&count_private=true&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icoderzqliu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icoderzqliu&layout=compact&theme=solarized-light)

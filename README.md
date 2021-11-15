@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![icoderzqliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icoderzqliu&count_private=true&show_icons=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icoderzqliu&layout=compact&theme=solarized-light)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=PAT-solution&reop=tutorials&show_owner=true&theme=buefy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=PAT-solution&repo=tutorials&show_owner=false&theme=buefy)

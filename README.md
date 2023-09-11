@@ -31,11 +31,3 @@ Here are some ideas to get you started:
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=PAT-solution&show_owner=true&theme=solarized-light)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=tutorials&show_owner=true&theme=solarized-light) -->
-
-<a href="https://github.com/icoderzqliu/PAT-solution">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=PAT-solution&show_owner=true&theme=solarized-light" />
-</a>
-<a href="https://github.com/icoderzqliu/tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icoderzqliu&repo=tutorials&show_owner=true&theme=solarized-light" />
-</a>
-

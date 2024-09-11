@@ -1,4 +1,4 @@
-### Hi there 👋, this is icoderzqliu.
+### Hi there 👋, this is Ziqiang Liu.
 
 <!--
 **icoderzqliu/icoderzqliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I graduated from [Wuhan Univerisity](http://cs.whu.edu.cn/)
-- 👯 I’m currently pursuing my master's degree in [SIAT](https://www.siat.ac.cn/)
-- 🌱 I’m currently learning nlp, llm, ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54), ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+- 🔭 I graduated from [Wuhan Univerisity](http://cs.whu.edu.cn/) and got my master's degree from [SIAT](https://www.siat.ac.cn/).
+- 👯 I’m currently working at [Z.ai](https://chat.z.ai/) for final AGI.
+- 🌱 I’m currently studying reasoning and agent.
 - ⚡ Fun fact: Stay hungry, stay foolish.
 
 <!-- ![](https://komarev.com/ghpvc/?username=icoderzqliu) -->
